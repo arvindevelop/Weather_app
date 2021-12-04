@@ -179,15 +179,7 @@ body {
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-top: -150px;
+  margin-top: 20px;
   margin-bottom: 50px;
 }
 
-/*Resize the wrap to see the search bar change!*/
-/* .wrap {
-  width: 30%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
